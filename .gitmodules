@@ -1,3 +1,6 @@
 [submodule "cpp_lectures_2016"]
 	path = cpp_lectures_2016
 	url = https://github.com/STEllAR-GROUP/cpp_lectures_2016.git
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/STEllAR-GROUP/tutorials
